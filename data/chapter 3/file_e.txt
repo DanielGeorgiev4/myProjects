@@ -1,0 +1,14 @@
+author
+book
+cat
+dictionary
+dog
+electronic dictionary
+bug
+kimchi
+less
+monkey
+more
+movie
+pork belly
+spider
