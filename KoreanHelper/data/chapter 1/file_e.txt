@@ -1,0 +1,9 @@
+am,is,are
+goodbye, go in peace
+goodbye, stay in peace
+hello
+I am...
+I,me
+nice to meet you
+no
+yes
